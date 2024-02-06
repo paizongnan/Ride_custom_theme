@@ -1,0 +1,220 @@
+{
+  "sections": {
+    "image-with-text": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading": { "type": "heading", "settings": { "heading": "FREEDOM TO ESCAPE", "heading_size": "h0" } },
+        "text_KRVzmi": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em><strong>As surfers, we have a deep-rooted desire to escape. Whether it's escaping to a beachside town for months of epic riding or escaping the city on a weekend strike mission, there’s no escape quite like riding the perfect wave on your favorite board.</strong></em></p>",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "button_label": "FIND YOUR BOARD",
+            "button_link": "shopify://collections/all",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": ["heading", "text_KRVzmi", "button"],
+      "settings": {
+        "image": "shopify://shop_images/home.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "test_product",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_ppzapD": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_7cHDrW": {
+          "type": "heading",
+          "settings": {
+            "heading": "NATHAN FLORENCE              JOINS THE RIDE TEAM",
+            "heading_size": "h2"
+          }
+        },
+        "text_EDDJCb": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>“I’m extremely stoked to join the family. I'm looking forward to pushing the limits of performance in the big wave arena.”</h5>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": ["heading_7cHDrW", "text_EDDJCb"],
+      "settings": {
+        "image": "shopify://shop_images/merge.jpg",
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "image-with-text_pcn": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading": { "type": "heading", "settings": { "heading": "PUNCHY BEACH BREAKS", "heading_size": "h0" } },
+        "text_KRVzmi": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em><strong>Flat and fast, the Kyuss King Fish is a small wave weapon that turns on a dime. This board will heighten the fun factor on those mushy days when you might not even paddle out.</strong></em></p>",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP THE K-FISH",
+            "button_link": "shopify://collections/all",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": ["heading", "text_KRVzmi", "button"],
+      "settings": {
+        "image": "shopify://shop_images/kyuss.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "collapsible_content_QgmqWY": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_Hn7p94": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "LOW ENVIRONMENTAL IMPACT",
+            "icon": "nut_free",
+            "row_content": "<p>We’ve made it our mission to design products that use low impact, sustainable materials while still remaining focused on maintaining the highest quality and performance.</p><p>Made with a 50% glass and Bio-Resin EcoBlend™, the NeoGlass Eco range delivers the same quality and trusted feel you’ve come to expect while at the same time reducing our carbon footprint.</p><p>SHOP NEOGLASS FIN</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_VXe4tW": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "PREMIUM QUALITY",
+            "icon": "lightning_bolt",
+            "row_content": "<p>Neo Glass fins are precision molded using long strand fiberglass and a marine grade polymer.</p> <p>Due to a high fiberglass content and active flex pattern, these fins will accommodate a wide range of surfers and surfing conditions.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_dVgbLx": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "BUILT FOR PERFORMANCE",
+            "icon": "fire",
+            "row_content": "<p>These innovative fins are made using a multi-layered resin transfer molding process.</p> <p>The flex pattern in PC fins extends progressively from the base through to the tip, helping the surfer to maintain drive and hold through a turn.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_R7AfVG": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "INDUSTRY INNOVATION",
+            "icon": "star",
+            "row_content": "<p>The new NeoGlass Eco range consists of a high performance injection moulded fin with the highest Bio-based (renewable castor oil) content possible (50%) to reduce petroleum-based content and a smaller carbon footprint than traditional materials.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_eiwnFR": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "SUPPORTS ALL RIDING STYLES",
+            "icon": "check_mark",
+            "row_content": "<p>Whether you're looking for speed, flow, responsiveness, or power, there's a NeoGlass Eco Fin for you.</p> <p>Choose from Reactor, Performer, Accelerator, or Carver templates and find the fin that’s best for your style of surfing.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_Hn7p94",
+        "collapsible_row_VXe4tW",
+        "collapsible_row_dVgbLx",
+        "collapsible_row_R7AfVG",
+        "collapsible_row_eiwnFR"
+      ],
+      "settings": {
+        "caption": "NEW RELEASE",
+        "heading": "MEET THE NEOGLASS ECO FIN",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "layout": "row",
+        "color_scheme": "scheme-1",
+        "container_color_scheme": "scheme-4",
+        "open_first_collapsible_row": true,
+        "image": "shopify://shop_images/neoglass.jpg",
+        "image_ratio": "adapt",
+        "desktop_layout": "image_first",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image-with-text",
+    "featured_collection",
+    "image_with_text_ppzapD",
+    "image-with-text_pcn",
+    "collapsible_content_QgmqWY"
+  ]
+}
