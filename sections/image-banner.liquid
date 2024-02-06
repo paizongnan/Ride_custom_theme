@@ -50,13 +50,13 @@
     assign fetch_priority = 'high'
   endif
 
-  if collection.title == "ORIGINAL BOARDS" and section.id == "template--17351091585283__image_banner_78Rnnz"
+  if collection.title == "ORIGINAL BOARDS" and section.id contains "image_banner_78Rnnz"
     assign flag_1 = true
   endif
-  if collection.title == "PERFORMANCE BOARDS" and section.id == "template--17351091585283__image_banner_W6djq3"
+  if collection.title == "PERFORMANCE BOARDS" and section.id contains "image_banner_W6djq3"
     assign flag_2 = true
   endif
-  if collection.title == "FINS" and section.id == "template--17351091585283__image_banner_DgKwr6"
+  if collection.title == "FINS" and section.id contains "image_banner_DgKwr6"
     assign flag_3 = true
   endif
 
